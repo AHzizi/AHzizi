@@ -1,4 +1,4 @@
-<img align="left" src="images/profile.jpg" alt="sensei" height="300" width="300" /> 
+<img align="left" src="images/profile.jpg" alt="sensei" height="250" width="250" /> 
 
 ```
 AHzizi
